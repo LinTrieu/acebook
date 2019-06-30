@@ -8,7 +8,7 @@ Date: 24/06/19 - 28/06/19
 
 Authors: Lin, Ed, Lauren, Taj and Megan
 
-Technology stack: C#, ASP.NET Core, Entity Framework, PostgreSQL 
+Technology stack: C#, ASP.NET Core, Razor, Entity Framework, PostgreSQL 
 
 # Test Coverage
 
