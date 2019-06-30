@@ -2,7 +2,7 @@
 
 Week: 9 - Engineering Project 1
 
-Purpose: Acebook application for [group engineering project](<https://github.com/makersacademy/course/blob/master/engineering_projects/csharp/learning_objectives.md>)
+Purpose: Acebook application for [group engineering project](https://github.com/makersacademy/course/blob/master/engineering_projects/project_setup.md)
 
 Date: 24/06/19 - 28/06/19
 
