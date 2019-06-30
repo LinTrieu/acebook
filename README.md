@@ -1,8 +1,12 @@
 # Acebook Sharpies 
 
-WOOOOOO
+Week: 9 - Engineering Project 1
 
-HOOOOOOOOOOOOOO.
+Purpose: Acebook application for group project [EP1](<https://github.com/makersacademy/course/blob/master/engineering_projects/csharp/learning_objectives.md>)
+
+Date: 24/06/19 - 28/06/19
+
+Technology stack: C#, ASP.NET Core, Entity Framework, PostgreSQL 
 
 # Test Coverage
 
