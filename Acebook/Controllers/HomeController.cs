@@ -42,7 +42,8 @@ namespace Acebook.Controllers
             return Redirect ("/");
         }
 
-        public IActionResult Privacy () {
+        public IActionResult Privacy()
+        {
             GetUserSession();
             return View ();
         }
@@ -59,7 +60,7 @@ namespace Acebook.Controllers
             _context.User.Add (user);
             await _context.SaveChangesAsync ();
 
-            return "Welcome!";
+            return Redirect("/");
         }
 
         [HttpPost]
