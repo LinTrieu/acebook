@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{A831109D-F841-46F8-BF79-70874AF54F0F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Acebook/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Acebook/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="Acebook/Controllers/HomeController.cs" Line="114" Column="35" />
-      <File FileName="Acebook/Views/Home/Index.cshtml" Line="20" Column="15" />
+      <File FileName="Acebook/Controllers/HomeController.cs" Line="30" Column="28" />
+      <File FileName="Acebook/Views/Home/Index.cshtml" Line="46" Column="1" NotebookId="1" />
+      <File FileName="Acebook/Views/Shared/_Layout.cshtml" Line="42" Column="55" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,20 +12,16 @@
             <Node name="Acebook" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="lux.css" selected="True" />
                 </Node>
               </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="acebook-sharpies" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
