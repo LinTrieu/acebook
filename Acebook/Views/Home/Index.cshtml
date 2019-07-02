@@ -36,10 +36,11 @@
                                     <input type="hidden" value=@item.Id name="id" />
                                     <input type="text" name="body" placeholder="Update your post" />
                                     <input type="submit" class="button btn-primary" value="Update" />
+                                </form>
+
                                  <form method='delete' action='@urlDeletePost'>
                                     <input type="hidden" value=@item.Id name="id" />
                                     <span><input class="button btn-primary" style="display: inline" type="submit" value="Delete" /></span>
-                                </form>
                                 </form>
 
                             }
